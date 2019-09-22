@@ -1,0 +1,44 @@
+/* Start Body */
+
+/* Start Body */
+body {
+    background-color: yellowgreen;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    Line-height: 1.5em;
+    margin: 10px;
+    padding: 15px;
+}
+/* End Body */    
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color:#ffff;
+}
+/* End Debug */
+
+/* start container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+.container-full {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100;
+}   
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo */
+
+/* Start Body */
+ 
